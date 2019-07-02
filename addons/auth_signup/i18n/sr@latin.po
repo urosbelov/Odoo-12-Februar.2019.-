@@ -24,6 +24,8 @@ msgid ""
 "${object.create_uid.name} from ${object.company_id.name} invites you to "
 "connect to Odoo"
 msgstr ""
+"${object.create_uid.name}, ${object.company_id.name} Vas poziva da se povežete na naš "
+"portal"
 
 #. module: auth_signup
 #: code:addons/auth_signup/models/res_users.py:126
