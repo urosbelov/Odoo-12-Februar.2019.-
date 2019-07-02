@@ -288,6 +288,13 @@
         </div>
     </xpath>
 </template>
+    
+<template id="brand_promotion" name="Brand Promotion">
+  <div class="o_brand_promotion">
+    Create a <a target="_blank" href="http://www.odoo.com/page/website-builder?utm_source=db&amp;utm_medium=website">free website</a> with
+    <a target="_blank" class="badge badge-danger" href="http://www.odoo.com/page/website-builder?utm_source=db&amp;utm_medium=website">Odoo</a>
+  </div>
+</template>
 
 <template id="layout_logo_show" inherit_id="website.layout" customize_show="True" name="Show Logo">
     <xpath expr="//header//a[hasclass('navbar-brand')]" position="replace">
